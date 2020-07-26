@@ -1,5 +1,5 @@
 {
-  "name": "doremi",
+  "name": "@wheredevsdev/doremi",
   "version": "0.0.1",
   "description": "DigitalOcean Droplet Management CLI Tool",
   "main": "index.js",
