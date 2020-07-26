@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wheredevsdev/doresize.git"
+    "url": "git+https://github.com/wheredevsdev/doremi.git"
   },
   "author": "Shashank Kaul <kaulshashank96@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wheredevsdev/doresize/issues"
+    "url": "https://github.com/wheredevsdev/doremi/issues"
   },
-  "homepage": "https://github.com/wheredevsdev/doresize#readme",
+  "homepage": "https://github.com/wheredevsdev/doremi#readme",
   "dependencies": {
     "axios": "^0.19.2",
     "yargs": "^15.4.1"
