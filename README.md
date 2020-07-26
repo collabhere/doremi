@@ -7,7 +7,7 @@ A simple CLI-tool to manage DO droplets.
 ## Installation
 
 ```
-npm i -g doremi
+npm i -g @wheredevsdev/doremi
 ```
 
 Set `DO_TOKEN` environment variable as your digitalocean account's personal access token. The token must have write permissions for the droplets you wish to manage.
